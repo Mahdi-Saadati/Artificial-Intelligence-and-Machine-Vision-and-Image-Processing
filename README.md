@@ -2,7 +2,7 @@
 Artificial Intelligence in simple terms
 
 Dr Mahdi Saadati
-Assistant professor, Ph.D. in Artificial Intelligence (AI)
+Ph.D. in Artificial Intelligence (AI)
 
 •	Site: https://ai.mazums.ac.ir
 
