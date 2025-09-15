@@ -1,7 +1,7 @@
 # Artificial Intelligence (AI)
 Artificial Intelligence in simple terms
 
-Dr Mahdi Saadati
+Dr Mahdi Saadati,
 Ph.D. in Artificial Intelligence (AI)
 
 •	Site: https://ai.mazums.ac.ir
